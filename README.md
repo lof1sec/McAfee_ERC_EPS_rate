@@ -1,4 +1,4 @@
-# McAfee_ERC_EPS_rate
+# McAfee Event Receiver EPS Rate
 
-EPS script
+The script is able to extract EPS collector and parsing rate in JSON format. It's read directly from the output of the dssummary command
 
